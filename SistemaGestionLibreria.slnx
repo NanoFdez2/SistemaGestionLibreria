@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SistemaGestionLibreria.Data/SistemaGestionLibreria.Data.csproj" Id="b7da658c-92a6-444f-aa4e-b132cbb09196" />
+  <Project Path="SistemaGestionLibreria.Entities/SistemaGestionLibreria.Entities.csproj" />
+  <Project Path="SistemaGestionLibreria.Ioc/SistemaGestionLibreria.Ioc.csproj" Id="b6da5d30-a543-4843-8054-e3b4468bedbd" />
+  <Project Path="SistemaGestionLibreria.Services/SistemaGestionLibreria.Services.csproj" />
+  <Project Path="SistemaGestionLibreria.Windows/SistemaGestionLibreria.Windows.csproj" Id="7907e38b-ff77-4206-abfe-b67476b1743e" />
+</Solution>
